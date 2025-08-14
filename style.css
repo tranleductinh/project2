@@ -147,12 +147,13 @@ main {
         }
         .content .play {
             display: flex;
-            gap: 10px
+            gap: 10px;
         }
         .play span {
             font-weight: var(--font-weight-primary);
             color: var(--color-primary);
             font-size: var(--font-size-xs);
+            margin-bottom: 0;
         }
     
     .alert {

@@ -188,7 +188,7 @@ main {
         .content-left h1 {
             font-size: 32px;
             margin-bottom: 25px;
-            font-weight: var(--font-weight-primary)px;
+            font-weight: var(--font-weight-primary);
             line-height: var(--line-height-lg);
         }
         .content-left span {
